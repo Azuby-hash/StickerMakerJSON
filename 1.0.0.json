@@ -1,0 +1,176 @@
+[
+    {
+        "name": "Raw Cut",
+        "mask": true,
+        "outline": { "width": 0, "smooth": 1, "color": "FFFFFFFF" },
+        "shadow": {
+            "radius": 0,
+            "color": "000000FF",
+            "opacity": 1,
+            "offset": { "x": 0, "y": 0 }
+        },
+        "filter": { "type": "Original", "intensity": 1 },
+        "adjusts": {
+            "Exposure": 0.0,
+            "Highlights": 1.0,
+            "Shadows": 0.0,
+            "Contrast": 1.0,
+            "Brightness": 0.0,
+            "Saturation": 1.0,
+            "Vibrance": 0.0,
+            "Warmth": 0.0,
+            "Tint": 0.0,
+            "Sharpen": 0.0
+        }
+    },
+    
+    {
+        "name": "Bold Onyx",
+        "mask": true,
+        "outline": { "width": 0.4, "smooth": 1, "color": "FFFFFFFF" },
+        "shadow": {
+            "radius": 0.05,
+            "color": "000000FF",
+            "opacity": 1,
+            "offset": { "x": 0, "y": 0.6 }
+        },
+        "filter": { "type": "Original", "intensity": 1 },
+        "adjusts": {
+            "Exposure": 0.0,
+            "Highlights": 1.0,
+            "Shadows": 0.0,
+            "Contrast": 1.0,
+            "Brightness": 0.0,
+            "Saturation": 1.0,
+            "Vibrance": 0.0,
+            "Warmth": 0.0,
+            "Tint": 0.0,
+            "Sharpen": 0.0
+        }
+    },
+    
+    {
+        "name": "Paper Cut",
+        "mask": true,
+        "outline": { "width": 1, "smooth": 0.25, "color": "FFFFFFFF" },
+        "shadow": {
+            "radius": 0,
+            "color": "000000FF",
+            "opacity": 1,
+            "offset": { "x": 0, "y": 0.6 }
+        },
+        "filter": { "type": "Original", "intensity": 1 },
+        "adjusts": {
+            "Exposure": 0.0,
+            "Highlights": 1.0,
+            "Shadows": 0.0,
+            "Contrast": 1.0,
+            "Brightness": 0.0,
+            "Saturation": 1.0,
+            "Vibrance": 0.0,
+            "Warmth": 0.0,
+            "Tint": 0.0,
+            "Sharpen": 0.0
+        }
+    },
+    
+    {
+        "name": "Grape Bubble",
+        "mask": true,
+        "outline": { "width": 1, "smooth": 0.25, "color": "CCA5FFFF" },
+        "shadow": {
+            "radius": 0.3,
+            "color": "B08BFDFF",
+            "opacity": 1,
+            "offset": { "x": 0, "y": 0.6 }
+        },
+        "filter": { "type": "Original", "intensity": 1 },
+        "adjusts": {
+            "Exposure": 0.0,
+            "Highlights": 1.0,
+            "Shadows": 0.0,
+            "Contrast": 1.0,
+            "Brightness": 0.0,
+            "Saturation": 1.0,
+            "Vibrance": 0.0,
+            "Warmth": 0.0,
+            "Tint": 0.0,
+            "Sharpen": 0.0
+        }
+    },
+    
+    {
+        "name": "Azure Glow",
+        "mask": true,
+        "outline": { "width": 0.4, "smooth": 1, "color": "FFFFFFFF" },
+        "shadow": {
+            "radius": 0.05,
+            "color": "1554ACFF",
+            "opacity": 0.2,
+            "offset": { "x": 0, "y": 0.6 }
+        },
+        "filter": { "type": "Original", "intensity": 1 },
+        "adjusts": {
+            "Exposure": 0.0,
+            "Highlights": 1.0,
+            "Shadows": 0.0,
+            "Contrast": 1.0,
+            "Brightness": 0.0,
+            "Saturation": 1.0,
+            "Vibrance": 0.0,
+            "Warmth": 0.0,
+            "Tint": 0.0,
+            "Sharpen": 0.0
+        }
+    },
+    
+    {
+        "name": "Pure Frost",
+        "mask": true,
+        "outline": { "width": 0.4, "smooth": 1, "color": "FFFFFFFF" },
+        "shadow": {
+            "radius": 0,
+            "color": "000000FF",
+            "opacity": 1,
+            "offset": { "x": 0, "y": 0 }
+        },
+        "filter": { "type": "Original", "intensity": 1 },
+        "adjusts": {
+            "Exposure": 0.0,
+            "Highlights": 1.0,
+            "Shadows": 0.0,
+            "Contrast": 1.0,
+            "Brightness": 0.0,
+            "Saturation": 1.0,
+            "Vibrance": 0.0,
+            "Warmth": 0.0,
+            "Tint": 0.0,
+            "Sharpen": 0.0
+        }
+    },
+    
+    {
+        "name": "Aqua Shield",
+        "mask": true,
+        "outline": { "width": 1, "smooth": 0.25, "color": "92E2FCFF" },
+        "shadow": {
+            "radius": 0.3,
+            "color": "A6C5FFFF",
+            "opacity": 1,
+            "offset": { "x": 0, "y": 0.6 }
+        },
+        "filter": { "type": "Original", "intensity": 1 },
+        "adjusts": {
+            "Exposure": 0.0,
+            "Highlights": 1.0,
+            "Shadows": 0.0,
+            "Contrast": 1.0,
+            "Brightness": 0.0,
+            "Saturation": 1.0,
+            "Vibrance": 0.0,
+            "Warmth": 0.0,
+            "Tint": 0.0,
+            "Sharpen": 0.0
+        }
+    }
+]
