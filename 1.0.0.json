@@ -1,3 +1,4 @@
+
 [
     {
         "name": "Raw Cut",
@@ -31,7 +32,7 @@
         "shadow": {
             "radius": 0.05,
             "color": "000000FF",
-            "opacity": 1,
+            "opacity": 0.8,
             "offset": { "x": 0, "y": 0.6 }
         },
         "filter": { "type": "Original", "intensity": 1 },
@@ -155,7 +156,7 @@
         "outline": { "width": 1, "smooth": 0.25, "color": "92E2FCFF" },
         "shadow": {
             "radius": 0.3,
-            "color": "A6C5FFFF",
+            "color": "00C6FBFF",
             "opacity": 1,
             "offset": { "x": 0, "y": 0.6 }
         },
